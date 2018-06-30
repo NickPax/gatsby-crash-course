@@ -1,4 +1,5 @@
 module.exports = {
+  
   pathPrefix: `/gatsby-crash-course`,
   siteMetadata: {
     title: 'Gatsby Crash Course',
