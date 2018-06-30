@@ -1,6 +1,7 @@
 # gatsby-starter-default
 The default Gatsby starter.  
-Made following this tutorial by Traversy Media: https://www.youtube.com/watch?v=6YhqQ2ZW1sc
+Made following this tutorial by Traversy Media: https://www.youtube.com/watch?v=6YhqQ2ZW1sc  
+And this: https://www.gatsbyjs.org/docs/how-gatsby-works-with-github-pages/
 
 For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
 
