@@ -1,2 +1,2 @@
-webpackJsonp([60335399758886],{103:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Crash Course"}}},layoutContext:{}}}});
+webpackJsonp([60335399758886],{104:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Gatsby Crash Course"}}},layoutContext:{}}}});
 //# sourceMappingURL=path----b24fd775ec1de36b2214.js.map

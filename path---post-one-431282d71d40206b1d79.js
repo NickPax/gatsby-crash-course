@@ -1,2 +1,2 @@
-webpackJsonp([0x8f85a78c25d5],{335:function(t,a){t.exports={data:{markdownRemark:{html:"<p>This is my very first blog post in Gatsby.</p>",frontmatter:{path:"/post-one",title:"My first gatsby post",author:"Nick",date:"2018-04-09"}}},pathContext:{}}}});
+webpackJsonp([0x8f85a78c25d5],{340:function(t,a){t.exports={data:{markdownRemark:{html:"<p>This is my very first blog post in Gatsby.</p>",frontmatter:{path:"/post-one",title:"My first gatsby post",author:"Nick",date:"2018-04-09"}}},pathContext:{}}}});
 //# sourceMappingURL=path---post-one-431282d71d40206b1d79.js.map
