@@ -13,6 +13,7 @@ const Menu = () => (
             <ul style={{
                 listStyle: 'none',
                 display: 'flex',
+                flexDirection: 'row',
                 justifyContent: 'space-evenly',
             }}
             >
