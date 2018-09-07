@@ -1,0 +1,78 @@
+{
+  "assetsByChunkName": {
+    "path---post-two": [
+      "path---post-two-d3cb627b3f8b13137ccf.js",
+      "path---post-two-d3cb627b3f8b13137ccf.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-fdd5c0aba8da78230e66.js",
+      "component---src-pages-index-js-fdd5c0aba8da78230e66.js.map"
+    ],
+    "path---blog": [
+      "path---blog-30be4c4371e68e00975e.js",
+      "path---blog-30be4c4371e68e00975e.js.map"
+    ],
+    "path---": [
+      "path----b24fd775ec1de36b2214.js",
+      "path----b24fd775ec1de36b2214.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-c8c2e6c2be9af2761d77.js",
+      "component---src-templates-blog-post-js-c8c2e6c2be9af2761d77.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-17112cf5e21a64c324e7.js",
+      "component---src-layouts-index-js-17112cf5e21a64c324e7.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---post-one": [
+      "path---post-one-431282d71d40206b1d79.js",
+      "path---post-one-431282d71d40206b1d79.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-afb5782224ac01f1fa03.js",
+      "commons-afb5782224ac01f1fa03.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-blog-js": [
+      "component---src-pages-blog-js-7e5d0ab7cd1a203dfa5a.js",
+      "component---src-pages-blog-js-7e5d0ab7cd1a203dfa5a.js.map"
+    ],
+    "app": [
+      "app-8a1d7cef480eba3359d0.js",
+      "build-js-styles.css",
+      "app-8a1d7cef480eba3359d0.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---services": [
+      "path---services-a0e39f21c11f6a62c5ab.js",
+      "path---services-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-91bf522c38013e5d3b77.js",
+      "component---src-pages-about-js-91bf522c38013e5d3b77.js.map"
+    ],
+    "component---src-pages-services-js": [
+      "component---src-pages-services-js-75af5febe014e3c7c3fe.js",
+      "component---src-pages-services-js-75af5febe014e3c7c3fe.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
